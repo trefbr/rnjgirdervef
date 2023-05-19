@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #请修改为自己的UUID
-export UUID=ba3f6e6d-0648-4b39-b35d-36d2355e719
+export UUID=501d9361-76fd-4ea1-8f20-87076d28d074
 
 #请修改为自己设置的伪装站，不要带https://
 export ProxySite=www.holehike.com
